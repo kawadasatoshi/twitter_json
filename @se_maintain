@@ -1,0 +1,309 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Sun Aug 08 11:09:29 +0000 2021",
+            "id": 1424326895626186753,
+            "id_str": "1424326895626186753",
+            "text": "@se_maintain 満喫中です！🏝",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "se_maintain",
+                        "name": "運用SE",
+                        "id": 1349555933257469955,
+                        "id_str": "1349555933257469955",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1424321605841297408,
+            "in_reply_to_status_id_str": "1424321605841297408",
+            "in_reply_to_user_id": 1349555933257469955,
+            "in_reply_to_user_id_str": "1349555933257469955",
+            "in_reply_to_screen_name": "se_maintain",
+            "user": {
+                "id": 1448236346,
+                "id_str": "1448236346",
+                "name": "もぐもぐ もぐみ",
+                "screen_name": "mgmgmogumi",
+                "location": "ap-northeast-1",
+                "description": "キラキラ美少女ギャルJKエンジニア/と見せかけたただの猫/とみせかけた赤ちゃんですﾊﾞﾌﾞﾊﾞﾌﾞ/とはいえ神様ですけどね/キャラ設定が迷走中/育児の呟き多め/Laravel/Node/Go/AWS/GAS/AR/ラズパイ/もぐみのQiita↓",
+                "url": "https://t.co/F2lo4Ricas",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/F2lo4Ricas",
+                                "expanded_url": "https://qiita.com/mgmgmogumi",
+                                "display_url": "qiita.com/mgmgmogumi",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1731,
+                "friends_count": 1533,
+                "listed_count": 20,
+                "created_at": "Wed May 22 07:21:48 +0000 2013",
+                "favourites_count": 105094,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 12922,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1387581607649812481/E1X4tiMc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387581607649812481/E1X4tiMc_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448236346/1538583985",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Aug 03 15:02:57 +0000 2021",
+            "id": 1422573712482594818,
+            "id_str": "1422573712482594818",
+            "text": "@se_maintain ソフトバンクの孫さんや元ZOZO社長の前澤さんのような大富豪にも10万円プレゼントとか送っていると思うと胸熱ですね🤣",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "se_maintain",
+                        "name": "運用SE",
+                        "id": 1349555933257469955,
+                        "id_str": "1349555933257469955",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1422524788103208960,
+            "in_reply_to_status_id_str": "1422524788103208960",
+            "in_reply_to_user_id": 1349555933257469955,
+            "in_reply_to_user_id_str": "1349555933257469955",
+            "in_reply_to_screen_name": "se_maintain",
+            "user": {
+                "id": 995547412063076352,
+                "id_str": "995547412063076352",
+                "name": "2-kasa@SIC",
+                "screen_name": "_tookun_0304",
+                "location": "神奈川県横浜市",
+                "description": "インフラエンジニアです。\n\n保有資格:第二種情報処理技術者試験、初級シスアド試験、ITILファンデーション、AWS CLF/SAA/ANS/SAP、CCNA、LPIC1、G検定2019#3/2020#2、Python3エンジニア認定データ分析/基礎試験、チョコレート検定スペシャリスト\n\n現在:LPIC2勉強中",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4182,
+                "friends_count": 4216,
+                "listed_count": 17,
+                "created_at": "Sun May 13 06:12:54 +0000 2018",
+                "favourites_count": 45241,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6695,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1245559305748631555/J0TyuHhT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245559305748631555/J0TyuHhT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/995547412063076352/1529233945",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Aug 03 12:14:11 +0000 2021",
+            "id": 1422531240058519555,
+            "id_str": "1422531240058519555",
+            "text": "@se_maintain お腹を減らしとけってことね、OK",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "se_maintain",
+                        "name": "運用SE",
+                        "id": 1349555933257469955,
+                        "id_str": "1349555933257469955",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1422525943378182144,
+            "in_reply_to_status_id_str": "1422525943378182144",
+            "in_reply_to_user_id": 1349555933257469955,
+            "in_reply_to_user_id_str": "1349555933257469955",
+            "in_reply_to_screen_name": "se_maintain",
+            "user": {
+                "id": 1171066066656583682,
+                "id_str": "1171066066656583682",
+                "name": "まぐまぐ",
+                "screen_name": "magmag_news",
+                "location": "日本 東京",
+                "description": "うわさのまぐです。福岡から東京へ上京しました。不束者ですが仲良くしてくださいまし。素敵なもの、好きだと思ったものを流行らせ隊。人生の第6の調味料に。どうぞよしなに。#福岡 #Ismet #note",
+                "url": "https://t.co/XqyT8XCLsq",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/XqyT8XCLsq",
+                                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/IFKAWHCTI6GI?ref_=wl_share",
+                                "display_url": "amazon.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1198,
+                "friends_count": 715,
+                "listed_count": 14,
+                "created_at": "Mon Sep 09 14:21:30 +0000 2019",
+                "favourites_count": 25964,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 14719,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1279343598480154625/3jH0JQyJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279343598480154625/3jH0JQyJ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171066066656583682/1592193453",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
