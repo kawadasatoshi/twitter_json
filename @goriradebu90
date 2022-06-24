@@ -1,0 +1,595 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Thu Jun 23 11:58:46 +0000 2022",
+            "id": 1539941029218222082,
+            "id_str": "1539941029218222082",
+            "text": "@goriradebu90 RTありがとうございます🙇\nキャンペーンへの応募はまだ完了していません、こちらから応募フォームへお進み頂き応募登録をお済ませください‼️\n\n#DellLatitude #DellPowerEdge\n\n▼… https://t.co/uijd6r7Ou5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DellLatitude",
+                        "indices": [
+                            84,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "DellPowerEdge",
+                        "indices": [
+                            98,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "goriradebu90",
+                        "name": "a🥃",
+                        "id": 1090805285860429824,
+                        "id_str": "1090805285860429824",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/uijd6r7Ou5",
+                        "expanded_url": "https://twitter.com/i/web/status/1539941029218222082",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.ownly.jp\" rel=\"nofollow\">OWNLY Admin</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 1090805285860429824,
+            "in_reply_to_user_id_str": "1090805285860429824",
+            "in_reply_to_screen_name": "goriradebu90",
+            "user": {
+                "id": 31101912,
+                "id_str": "31101912",
+                "name": "デル・テクノロジーズ",
+                "screen_name": "DellConsumer_JP",
+                "location": "東京都千代田区",
+                "description": "Dell Technologies日本公式アカウント（個人・スモールビジネス）。 XPSアンバサダー渋谷凪咲さん（NMB48）のレビューキャンペーン開催中！ フォロー＆ツイートで、XPS 13 Plusやサイン入りデルベアーをプレゼント🎁",
+                "url": "https://t.co/BUpNQebAmO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BUpNQebAmO",
+                                "expanded_url": "http://www.dell.co.jp/",
+                                "display_url": "dell.co.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 427037,
+                "friends_count": 15,
+                "listed_count": 2241,
+                "created_at": "Tue Apr 14 11:31:20 +0000 2009",
+                "favourites_count": 113,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 2605633,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E8E7E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1345923830095646721/uhiKaJ-0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345923830095646721/uhiKaJ-0_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/31101912/1652961858",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "51B090",
+                "profile_sidebar_fill_color": "E2E2DE",
+                "profile_text_color": "2A2A2A",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jun 23 00:22:02 +0000 2022",
+            "id": 1539765690332479488,
+            "id_str": "1539765690332479488",
+            "text": "@goriradebu90 RTありがとうございます🙇\nキャンペーンへの応募はまだ完了していません、こちらから応募フォームへお進み頂き応募登録をお済ませください‼️\n\n#DellLatitude #DellPowerEdge\n\n▼… https://t.co/yELozhRBlL",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DellLatitude",
+                        "indices": [
+                            84,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "DellPowerEdge",
+                        "indices": [
+                            98,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "goriradebu90",
+                        "name": "a🥃",
+                        "id": 1090805285860429824,
+                        "id_str": "1090805285860429824",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/yELozhRBlL",
+                        "expanded_url": "https://twitter.com/i/web/status/1539765690332479488",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.ownly.jp\" rel=\"nofollow\">OWNLY Admin</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 1090805285860429824,
+            "in_reply_to_user_id_str": "1090805285860429824",
+            "in_reply_to_screen_name": "goriradebu90",
+            "user": {
+                "id": 31101912,
+                "id_str": "31101912",
+                "name": "デル・テクノロジーズ",
+                "screen_name": "DellConsumer_JP",
+                "location": "東京都千代田区",
+                "description": "Dell Technologies日本公式アカウント（個人・スモールビジネス）。 XPSアンバサダー渋谷凪咲さん（NMB48）のレビューキャンペーン開催中！ フォロー＆ツイートで、XPS 13 Plusやサイン入りデルベアーをプレゼント🎁",
+                "url": "https://t.co/BUpNQebAmO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BUpNQebAmO",
+                                "expanded_url": "http://www.dell.co.jp/",
+                                "display_url": "dell.co.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 427037,
+                "friends_count": 15,
+                "listed_count": 2241,
+                "created_at": "Tue Apr 14 11:31:20 +0000 2009",
+                "favourites_count": 113,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 2605633,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E8E7E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1345923830095646721/uhiKaJ-0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345923830095646721/uhiKaJ-0_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/31101912/1652961858",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "51B090",
+                "profile_sidebar_fill_color": "E2E2DE",
+                "profile_text_color": "2A2A2A",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 14:10:21 +0000 2022",
+            "id": 1539249367688916994,
+            "id_str": "1539249367688916994",
+            "text": "@goriradebu90 イケますよ、ただ\nなんだかなあ…日本製に居た方が\n気が楽ぞ？",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "goriradebu90",
+                        "name": "a🥃",
+                        "id": 1090805285860429824,
+                        "id_str": "1090805285860429824",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1539230992568754177,
+            "in_reply_to_status_id_str": "1539230992568754177",
+            "in_reply_to_user_id": 1090805285860429824,
+            "in_reply_to_user_id_str": "1090805285860429824",
+            "in_reply_to_screen_name": "goriradebu90",
+            "user": {
+                "id": 1149732275535224834,
+                "id_str": "1149732275535224834",
+                "name": "ふらむ",
+                "screen_name": "BlackTale01",
+                "location": "地球のどこかにポツンと居ます。",
+                "description": "ふらむです。ウマ娘ネーム「フラム＠根性育成委員会」",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 114,
+                "friends_count": 193,
+                "listed_count": 2,
+                "created_at": "Fri Jul 12 17:28:30 +0000 2019",
+                "favourites_count": 4299,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5821,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1370658404616695808/N6G08yZU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370658404616695808/N6G08yZU_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 12:39:19 +0000 2022",
+            "id": 1539226456790016000,
+            "id_str": "1539226456790016000",
+            "text": "@goriradebu90 RTありがとうございます🙇\nキャンペーンへの応募はまだ完了していません、こちらから応募フォームへお進み頂き応募登録をお済ませください‼️\n\n#DellLatitude #DellPowerEdge\n\n▼… https://t.co/V4BP7kZdF1",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DellLatitude",
+                        "indices": [
+                            84,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "DellPowerEdge",
+                        "indices": [
+                            98,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "goriradebu90",
+                        "name": "a🥃",
+                        "id": 1090805285860429824,
+                        "id_str": "1090805285860429824",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/V4BP7kZdF1",
+                        "expanded_url": "https://twitter.com/i/web/status/1539226456790016000",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.ownly.jp\" rel=\"nofollow\">OWNLY Admin</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 1090805285860429824,
+            "in_reply_to_user_id_str": "1090805285860429824",
+            "in_reply_to_screen_name": "goriradebu90",
+            "user": {
+                "id": 31101912,
+                "id_str": "31101912",
+                "name": "デル・テクノロジーズ",
+                "screen_name": "DellConsumer_JP",
+                "location": "東京都千代田区",
+                "description": "Dell Technologies日本公式アカウント（個人・スモールビジネス）。 XPSアンバサダー渋谷凪咲さん（NMB48）のレビューキャンペーン開催中！ フォロー＆ツイートで、XPS 13 Plusやサイン入りデルベアーをプレゼント🎁",
+                "url": "https://t.co/BUpNQebAmO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BUpNQebAmO",
+                                "expanded_url": "http://www.dell.co.jp/",
+                                "display_url": "dell.co.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 427037,
+                "friends_count": 15,
+                "listed_count": 2241,
+                "created_at": "Tue Apr 14 11:31:20 +0000 2009",
+                "favourites_count": 113,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 2605633,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E8E7E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1345923830095646721/uhiKaJ-0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345923830095646721/uhiKaJ-0_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/31101912/1652961858",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "51B090",
+                "profile_sidebar_fill_color": "E2E2DE",
+                "profile_text_color": "2A2A2A",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 12:21:48 +0000 2022",
+            "id": 1539222050715615233,
+            "id_str": "1539222050715615233",
+            "text": "@rurounibot777 @goriradebu90 その女性は今の嫁です😃",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "rurounibot777",
+                        "name": "るろうに@臨床心理士のメンタル回復bot",
+                        "id": 1172820991333957633,
+                        "id_str": "1172820991333957633",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "goriradebu90",
+                        "name": "a🥃",
+                        "id": 1090805285860429824,
+                        "id_str": "1090805285860429824",
+                        "indices": [
+                            15,
+                            28
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1539081616521211904,
+            "in_reply_to_status_id_str": "1539081616521211904",
+            "in_reply_to_user_id": 1172820991333957633,
+            "in_reply_to_user_id_str": "1172820991333957633",
+            "in_reply_to_screen_name": "rurounibot777",
+            "user": {
+                "id": 1293738314655100933,
+                "id_str": "1293738314655100933",
+                "name": "Tomoaky",
+                "screen_name": "Tomoaky_m",
+                "location": "日本 東京",
+                "description": "平日は東京と週末は南箱根の二重生活してます。常に眠いです。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 802,
+                "friends_count": 2716,
+                "listed_count": 7,
+                "created_at": "Thu Aug 13 02:37:15 +0000 2020",
+                "favourites_count": 3597,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2280,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1465674732263870464/Dr8oXVNS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1465674732263870464/Dr8oXVNS_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ],
+    "wordcloud": []
+}
