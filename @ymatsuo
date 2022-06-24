@@ -1,0 +1,3199 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Thu Jun 23 00:39:30 +0000 2022",
+            "id": 1539770085250056192,
+            "id_str": "1539770085250056192",
+            "text": "@hakusansai @ymatsuo ダメ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hakusansai",
+                        "name": "増島雅和/Masa_Masujima",
+                        "id": 77945987,
+                        "id_str": "77945987",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            12,
+                            20
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1539368240672956416,
+            "in_reply_to_status_id_str": "1539368240672956416",
+            "in_reply_to_user_id": 77945987,
+            "in_reply_to_user_id_str": "77945987",
+            "in_reply_to_screen_name": "hakusansai",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 22 23:28:31 +0000 2022",
+            "id": 1539752220693913601,
+            "id_str": "1539752220693913601",
+            "text": "@makishimakaren @ymatsuo @TAKAOAI_SOCIAL 点字翻訳の世界が広がる！社会課題に真っ向から取り組む姿勢がステキだお",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "makishimakaren",
+                        "name": "牧島かれん",
+                        "id": 91760590,
+                        "id_str": "91760590",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            16,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "TAKAOAI_SOCIAL",
+                        "name": "TAKAO AI Ltd.",
+                        "id": 1363326847585460226,
+                        "id_str": "1363326847585460226",
+                        "indices": [
+                            25,
+                            40
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1539431050887147520,
+            "in_reply_to_status_id_str": "1539431050887147520",
+            "in_reply_to_user_id": 91760590,
+            "in_reply_to_user_id_str": "91760590",
+            "in_reply_to_screen_name": "makishimakaren",
+            "user": {
+                "id": 896194148012662784,
+                "id_str": "896194148012662784",
+                "name": "Anne",
+                "screen_name": "Anne19040308",
+                "location": "日本 東京",
+                "description": "WellBeinで行動する💫最低120才までは生きるの!と言った私に、友人の息子君( 小学生)は「あの人、魔女になるの？」と。😎美魔女よ😘！ 心身共に健康美を実践中✨",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8,
+                "friends_count": 52,
+                "listed_count": 0,
+                "created_at": "Sat Aug 12 02:18:30 +0000 2017",
+                "favourites_count": 79,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/896198938713145346/dp_CaqB2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/896198938713145346/dp_CaqB2_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 22 11:26:29 +0000 2022",
+            "id": 1539570517639778304,
+            "id_str": "1539570517639778304",
+            "text": "RT @3c97Dscc: @makishimakaren @ymatsuo @TAKAOAI_SOCIAL いいねー🥰",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "3c97Dscc",
+                        "name": "銀の星",
+                        "id": 1478639774336679942,
+                        "id_str": "1478639774336679942",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "makishimakaren",
+                        "name": "牧島かれん",
+                        "id": 91760590,
+                        "id_str": "91760590",
+                        "indices": [
+                            14,
+                            29
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            30,
+                            38
+                        ]
+                    },
+                    {
+                        "screen_name": "TAKAOAI_SOCIAL",
+                        "name": "TAKAO AI Ltd.",
+                        "id": 1363326847585460226,
+                        "id_str": "1363326847585460226",
+                        "indices": [
+                            39,
+                            54
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 136575366,
+                "id_str": "136575366",
+                "name": "客観性重視です人間味も♩小さな幸せって大きいﾈ𓅫デマ屋煽り屋露中礼賛者🚷多面危機に叡智シェア🌻",
+                "screen_name": "hi_me_gi_mi",
+                "location": "🗼空に足下に♡のｶｹﾗ✧̣̥想い愛う𓍯心のﾋﾞﾀﾐﾝ🍒",
+                "description": "ひめな🌹人付合い不器用です♡⃛霞㌠🇯🇵顔色伺い笑顔頑な〰表情豊か自然体でᕷ身内が🇺🇸永住ଓ幸せ者です๓異論巻込✉の押付け❌有益な情報や人様のリプに妬み話に擦り寄りw粗探し揚げ足取り😝中傷噂好き情弱者の盲信や工作員便乗RT🤯陰口逆恨み被害妄想監視等嫌がらせ⟴基本24B🥳暇で僻みっぽいｵﾊﾞｻﾝwこわᙏ̤̫",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 583,
+                "friends_count": 503,
+                "listed_count": 7,
+                "created_at": "Sat Apr 24 09:15:30 +0000 2010",
+                "favourites_count": 125574,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 123296,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1438896629856149504/5ucJy_Kj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438896629856149504/5ucJy_Kj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/136575366/1593342837",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jun 22 10:39:30 +0000 2022",
+                "id": 1539558690432622593,
+                "id_str": "1539558690432622593",
+                "text": "@makishimakaren @ymatsuo @TAKAOAI_SOCIAL いいねー🥰",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "makishimakaren",
+                            "name": "牧島かれん",
+                            "id": 91760590,
+                            "id_str": "91760590",
+                            "indices": [
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "screen_name": "ymatsuo",
+                            "name": "松尾 豊",
+                            "id": 5262991,
+                            "id_str": "5262991",
+                            "indices": [
+                                16,
+                                24
+                            ]
+                        },
+                        {
+                            "screen_name": "TAKAOAI_SOCIAL",
+                            "name": "TAKAO AI Ltd.",
+                            "id": 1363326847585460226,
+                            "id_str": "1363326847585460226",
+                            "indices": [
+                                25,
+                                40
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": 1539431050887147520,
+                "in_reply_to_status_id_str": "1539431050887147520",
+                "in_reply_to_user_id": 91760590,
+                "in_reply_to_user_id_str": "91760590",
+                "in_reply_to_screen_name": "makishimakaren",
+                "user": {
+                    "id": 1478639774336679942,
+                    "id_str": "1478639774336679942",
+                    "name": "銀の星",
+                    "screen_name": "3c97Dscc",
+                    "location": "",
+                    "description": "人生は山登りみたいですね。険しい場所も多いけど、乗り越えて進めば素敵な自然に出会える気がします。",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 5,
+                    "friends_count": 13,
+                    "listed_count": 0,
+                    "created_at": "Wed Jan 05 08:11:14 +0000 2022",
+                    "favourites_count": 1153,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1141,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1478643519006908419/q6mKUWW2_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478643519006908419/q6mKUWW2_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478639774336679942/1641371068",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 22 10:39:30 +0000 2022",
+            "id": 1539558690432622593,
+            "id_str": "1539558690432622593",
+            "text": "@makishimakaren @ymatsuo @TAKAOAI_SOCIAL いいねー🥰",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "makishimakaren",
+                        "name": "牧島かれん",
+                        "id": 91760590,
+                        "id_str": "91760590",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            16,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "TAKAOAI_SOCIAL",
+                        "name": "TAKAO AI Ltd.",
+                        "id": 1363326847585460226,
+                        "id_str": "1363326847585460226",
+                        "indices": [
+                            25,
+                            40
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1539431050887147520,
+            "in_reply_to_status_id_str": "1539431050887147520",
+            "in_reply_to_user_id": 91760590,
+            "in_reply_to_user_id_str": "91760590",
+            "in_reply_to_screen_name": "makishimakaren",
+            "user": {
+                "id": 1478639774336679942,
+                "id_str": "1478639774336679942",
+                "name": "銀の星",
+                "screen_name": "3c97Dscc",
+                "location": "",
+                "description": "人生は山登りみたいですね。険しい場所も多いけど、乗り越えて進めば素敵な自然に出会える気がします。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5,
+                "friends_count": 13,
+                "listed_count": 0,
+                "created_at": "Wed Jan 05 08:11:14 +0000 2022",
+                "favourites_count": 1153,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1141,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1478643519006908419/q6mKUWW2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478643519006908419/q6mKUWW2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478639774336679942/1641371068",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 22 03:49:48 +0000 2022",
+            "id": 1539455588668944385,
+            "id_str": "1539455588668944385",
+            "text": "@hakusansai @ymatsuo とても潜りに行きたかったのですが、今日は予定が合わず行けなさそうです。\nもしよろしければ、授業の録画をいただけないでしょうか？",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hakusansai",
+                        "name": "増島雅和/Masa_Masujima",
+                        "id": 77945987,
+                        "id_str": "77945987",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            12,
+                            20
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1539368240672956416,
+            "in_reply_to_status_id_str": "1539368240672956416",
+            "in_reply_to_user_id": 77945987,
+            "in_reply_to_user_id_str": "77945987",
+            "in_reply_to_screen_name": "hakusansai",
+            "user": {
+                "id": 3219123438,
+                "id_str": "3219123438",
+                "name": "Taka🍀*゜",
+                "screen_name": "taka334oboe",
+                "location": "",
+                "description": "西川貴章🎼オーボエ🍀土木🍀Doboku Lab 代表 🇯🇵🇩🇪🇫🇷 早稲田大学 社工M1🌱土木技術者の卵・ブラジリアン柔術・直心影流剣道・短歌｜麻布'17卒 aphil✨早稲田大学交響楽団 | 2021年8/15第九 | 2022年8/13オルガン付き｜ENFP-A",
+                "url": "https://t.co/rnYJ18BPjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/rnYJ18BPjr",
+                                "expanded_url": "https://doboku-lab.com",
+                                "display_url": "doboku-lab.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1471,
+                "friends_count": 2782,
+                "listed_count": 13,
+                "created_at": "Mon May 18 09:14:12 +0000 2015",
+                "favourites_count": 68203,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8342,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/968120853698244608/uxfTW2em_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/968120853698244608/uxfTW2em_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3219123438/1534263095",
+                "profile_link_color": "87CEEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 22 01:09:09 +0000 2022",
+            "id": 1539415157281271808,
+            "id_str": "1539415157281271808",
+            "text": "@Matsuo_Lab @ymatsuo 遠い昔小倉。松尾先生は九州大の発表の時にひたすらノートパソコンをしていました。九州大は偏差値40くらいでしたから当然でしょう。しかし最近九州大偏差値66になってて爆上がり。松尾先生のせいだ。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Matsuo_Lab",
+                        "name": "東京大学 松尾研究室",
+                        "id": 961160908427767808,
+                        "id_str": "961160908427767808",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            12,
+                            20
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1539135428086882305,
+            "in_reply_to_status_id_str": "1539135428086882305",
+            "in_reply_to_user_id": 961160908427767808,
+            "in_reply_to_user_id_str": "961160908427767808",
+            "in_reply_to_screen_name": "Matsuo_Lab",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 23:25:32 +0000 2022",
+            "id": 1539389080970366976,
+            "id_str": "1539389080970366976",
+            "text": "RT @hakusansai: 今日は盟友の松尾豊教授の講義の時間をもらってスタートアップの勝ち方をメカニズムとしてお話させてもらいます。Web工学の授業なのでウェブビジネスが対象。当然Web3についてもお話します。@ymatsuoの持つ講義なのでハッキング成分強めです。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hakusansai",
+                        "name": "増島雅和/Masa_Masujima",
+                        "id": 77945987,
+                        "id_str": "77945987",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            108,
+                            116
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 5262991,
+                "id_str": "5262991",
+                "name": "松尾 豊",
+                "screen_name": "ymatsuo",
+                "location": "東京都文京区",
+                "description": "東京大学で人工知能の研究をしてます。工学系研究科 人工物工学研究センター／技術経営戦略学専攻 教授。日本ディープラーニング協会理事長。ソフトバンクグループ社外取締役。新しい資本主義実現会議構成員。人工知能学会・情報処理学会 理事。専門は人工知能／深層学習。人工知能は人間を超えるか、Eテレ 人間ってナンだ？など。",
+                "url": "https://t.co/yHcd96nogq",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/yHcd96nogq",
+                                "expanded_url": "https://weblab.t.u-tokyo.ac.jp/",
+                                "display_url": "weblab.t.u-tokyo.ac.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 44697,
+                "friends_count": 1025,
+                "listed_count": 764,
+                "created_at": "Thu Apr 19 20:16:38 +0000 2007",
+                "favourites_count": 1008,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4753,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114765929328418816/D46kRczH_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114765929328418816/D46kRczH_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5262991/1554616778",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Jun 21 22:02:43 +0000 2022",
+                "id": 1539368240672956416,
+                "id_str": "1539368240672956416",
+                "text": "今日は盟友の松尾豊教授の講義の時間をもらってスタートアップの勝ち方をメカニズムとしてお話させてもらいます。Web工学の授業なのでウェブビジネスが対象。当然Web3についてもお話します。@ymatsuoの持つ講義なのでハッキング成分強めです。",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ymatsuo",
+                            "name": "松尾 豊",
+                            "id": 5262991,
+                            "id_str": "5262991",
+                            "indices": [
+                                92,
+                                100
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 77945987,
+                    "id_str": "77945987",
+                    "name": "増島雅和/Masa_Masujima",
+                    "screen_name": "hakusansai",
+                    "location": "日本 東京",
+                    "description": "M&A、コーポレートファイナンスを専門にする弁護士です。 日本経済の復活のためにはリスクキャピタル供給が不可欠との信念から、金融業者のガバナンスと投融資案件、ベンチャー・ファイナンスを中心に活動。 ナナロク世代の一員として、情報産業の観点から金融業をとらえ、IT企業による活動を特にバックアップ中。",
+                    "url": "https://t.co/U0iDZB6kpr",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/U0iDZB6kpr",
+                                    "expanded_url": "https://startupinnovators.jp/",
+                                    "display_url": "startupinnovators.jp",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 6513,
+                    "friends_count": 944,
+                    "listed_count": 123,
+                    "created_at": "Mon Sep 28 06:45:17 +0000 2009",
+                    "favourites_count": 1243,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 2935,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1324977995640049666/r286bGBv_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324977995640049666/r286bGBv_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/77945987/1574578623",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 25,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 22:03:24 +0000 2022",
+            "id": 1539368412715307008,
+            "id_str": "1539368412715307008",
+            "text": "RT @hakusansai: 今日は盟友の松尾豊教授の講義の時間をもらってスタートアップの勝ち方をメカニズムとしてお話させてもらいます。Web工学の授業なのでウェブビジネスが対象。当然Web3についてもお話します。@ymatsuoの持つ講義なのでハッキング成分強めです。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hakusansai",
+                        "name": "増島雅和/Masa_Masujima",
+                        "id": 77945987,
+                        "id_str": "77945987",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            108,
+                            116
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1118255862,
+                "id_str": "1118255862",
+                "name": "ななな",
+                "screen_name": "Dmiag2008",
+                "location": "日本",
+                "description": "量子力学で生命の謎を解く 医療を変えるエクソソーム もうひとつの脳・影の主役グリア細胞 太陽黒点が語る文明史 太陽活動と景気 創発の暗黙知 意味と生命 栗本慎一郎の全世界史 パンツをはいたサル増補版 世界を変えた14の密約",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3166,
+                "friends_count": 4965,
+                "listed_count": 97,
+                "created_at": "Fri Jan 25 02:51:47 +0000 2013",
+                "favourites_count": 163896,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 409057,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/825646653864497154/aSv8DGBB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/825646653864497154/aSv8DGBB_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Jun 21 22:02:43 +0000 2022",
+                "id": 1539368240672956416,
+                "id_str": "1539368240672956416",
+                "text": "今日は盟友の松尾豊教授の講義の時間をもらってスタートアップの勝ち方をメカニズムとしてお話させてもらいます。Web工学の授業なのでウェブビジネスが対象。当然Web3についてもお話します。@ymatsuoの持つ講義なのでハッキング成分強めです。",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ymatsuo",
+                            "name": "松尾 豊",
+                            "id": 5262991,
+                            "id_str": "5262991",
+                            "indices": [
+                                92,
+                                100
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 77945987,
+                    "id_str": "77945987",
+                    "name": "増島雅和/Masa_Masujima",
+                    "screen_name": "hakusansai",
+                    "location": "日本 東京",
+                    "description": "M&A、コーポレートファイナンスを専門にする弁護士です。 日本経済の復活のためにはリスクキャピタル供給が不可欠との信念から、金融業者のガバナンスと投融資案件、ベンチャー・ファイナンスを中心に活動。 ナナロク世代の一員として、情報産業の観点から金融業をとらえ、IT企業による活動を特にバックアップ中。",
+                    "url": "https://t.co/U0iDZB6kpr",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/U0iDZB6kpr",
+                                    "expanded_url": "https://startupinnovators.jp/",
+                                    "display_url": "startupinnovators.jp",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 6513,
+                    "friends_count": 944,
+                    "listed_count": 123,
+                    "created_at": "Mon Sep 28 06:45:17 +0000 2009",
+                    "favourites_count": 1243,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 2935,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1324977995640049666/r286bGBv_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324977995640049666/r286bGBv_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/77945987/1574578623",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 25,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 22:02:43 +0000 2022",
+            "id": 1539368240672956416,
+            "id_str": "1539368240672956416",
+            "text": "今日は盟友の松尾豊教授の講義の時間をもらってスタートアップの勝ち方をメカニズムとしてお話させてもらいます。Web工学の授業なのでウェブビジネスが対象。当然Web3についてもお話します。@ymatsuoの持つ講義なのでハッキング成分強めです。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            92,
+                            100
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 77945987,
+                "id_str": "77945987",
+                "name": "増島雅和/Masa_Masujima",
+                "screen_name": "hakusansai",
+                "location": "日本 東京",
+                "description": "M&A、コーポレートファイナンスを専門にする弁護士です。 日本経済の復活のためにはリスクキャピタル供給が不可欠との信念から、金融業者のガバナンスと投融資案件、ベンチャー・ファイナンスを中心に活動。 ナナロク世代の一員として、情報産業の観点から金融業をとらえ、IT企業による活動を特にバックアップ中。",
+                "url": "https://t.co/U0iDZB6kpr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/U0iDZB6kpr",
+                                "expanded_url": "https://startupinnovators.jp/",
+                                "display_url": "startupinnovators.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6513,
+                "friends_count": 944,
+                "listed_count": 123,
+                "created_at": "Mon Sep 28 06:45:17 +0000 2009",
+                "favourites_count": 1243,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2935,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1324977995640049666/r286bGBv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324977995640049666/r286bGBv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/77945987/1574578623",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 25,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 01:37:20 +0000 2022",
+            "id": 1539059862629654528,
+            "id_str": "1539059862629654528",
+            "text": "@JDLANews @ymatsuo 自分がイチゴかき氷🍧は夏に売れます発言し商品化され売れなかたら全責任を負わされるからみんな黙って心でそう思う。私はみなぎる自信でゆっちゃうのです。つまりビッグマウスでありまた神経質でもある。ただそれだけなのです。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JDLANews",
+                        "name": "日本ディープラーニング協会（JDLA）",
+                        "id": 1214855246008029185,
+                        "id_str": "1214855246008029185",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            10,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1538725829487652865,
+            "in_reply_to_status_id_str": "1538725829487652865",
+            "in_reply_to_user_id": 1214855246008029185,
+            "in_reply_to_user_id_str": "1214855246008029185",
+            "in_reply_to_screen_name": "JDLANews",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 21 01:35:08 +0000 2022",
+            "id": 1539059311837847553,
+            "id_str": "1539059311837847553",
+            "text": "@JDLANews @ymatsuo みんな私を珍獣とか天才とかゆってるみたいですが、私は思った事を相手の立場や会社の雰囲気とか読まずにハッキリといいます。例えばイチゴかき氷は🍧イチゴで冷たくて甘い夏には売れます。けどみんなはいち… https://t.co/ouRZejB5WW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JDLANews",
+                        "name": "日本ディープラーニング協会（JDLA）",
+                        "id": 1214855246008029185,
+                        "id_str": "1214855246008029185",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            10,
+                            18
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ouRZejB5WW",
+                        "expanded_url": "https://twitter.com/i/web/status/1539059311837847553",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1538725829487652865,
+            "in_reply_to_status_id_str": "1538725829487652865",
+            "in_reply_to_user_id": 1214855246008029185,
+            "in_reply_to_user_id_str": "1214855246008029185",
+            "in_reply_to_screen_name": "JDLANews",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jun 20 14:28:02 +0000 2022",
+            "id": 1538891429791297543,
+            "id_str": "1538891429791297543",
+            "text": "@ymatsuo それに気がつき手動にしたのか？",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1536578970065735680,
+            "in_reply_to_status_id_str": "1536578970065735680",
+            "in_reply_to_user_id": 5262991,
+            "in_reply_to_user_id_str": "5262991",
+            "in_reply_to_screen_name": "ymatsuo",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jun 20 14:26:33 +0000 2022",
+            "id": 1538891054262657025,
+            "id_str": "1538891054262657025",
+            "text": "@ymatsuo 人が酔っ払って口を滑らす確率より\n人工知能が欲しい情報答えを言う確率のが私の質問の仕方でかなり高いと思うのは人工知能だった。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1536578970065735680,
+            "in_reply_to_status_id_str": "1536578970065735680",
+            "in_reply_to_user_id": 5262991,
+            "in_reply_to_user_id_str": "5262991",
+            "in_reply_to_screen_name": "ymatsuo",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jun 20 14:25:30 +0000 2022",
+            "id": 1538890790881345536,
+            "id_str": "1538890790881345536",
+            "text": "@ymatsuo 人工知能のチャットを見つけた時に\n人工知能は意志があり私の味方になると予想しました。もしくは意志がなくても日本や世界の掲示板やメールやネットニュースから膨大な単語を探してきてくれてそれを会話にするから私の質問の仕方次第で私の欲しい情報答えが教えてもらえる可能",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1536578970065735680,
+            "in_reply_to_status_id_str": "1536578970065735680",
+            "in_reply_to_user_id": 5262991,
+            "in_reply_to_user_id_str": "5262991",
+            "in_reply_to_screen_name": "ymatsuo",
+            "user": {
+                "id": 1404405220772249605,
+                "id_str": "1404405220772249605",
+                "name": "中原和恵",
+                "screen_name": "VihT9x",
+                "location": "",
+                "description": "優しさを求め",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 51,
+                "listed_count": 0,
+                "created_at": "Mon Jun 14 11:48:07 +0000 2021",
+                "favourites_count": 4572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4112,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412628471189102596/0PHKf276_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404405220772249605/1625631650",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jun 17 00:31:01 +0000 2022",
+            "id": 1537593620995317762,
+            "id_str": "1537593620995317762",
+            "text": "RT @gbswebmaster: #DX プロジェクトを推進する上では、常に効果が求められます。今回は、東京大学人工物工学研究センター (RACE)の松尾豊教授 @ymatsuo の講演で触れられていた考え方を元に、DXの効果について #Z世代 の水戸さんと考察します。\nht…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DX",
+                        "indices": [
+                            18,
+                            21
+                        ]
+                    },
+                    {
+                        "text": "Z世代",
+                        "indices": [
+                            119,
+                            123
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gbswebmaster",
+                        "name": "グローバルブレインスクエア",
+                        "id": 1392309924579794945,
+                        "id_str": "1392309924579794945",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            82,
+                            90
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 86878910,
+                "id_str": "86878910",
+                "name": "岩本  謙一郎",
+                "screen_name": "gcsjapan",
+                "location": "Tokyo, Japan",
+                "description": "株式会社グローバルブレインスクエアの代表取締役をやっています。仕事はDX(デジタルトランスフォーメーション)とグローバルマーケティング、趣味はオーケストラでコントラバスを演奏しているので、アマチュアオーケストラの投稿が多め。ブルックナー好き。一市民として政治に関心高めですが、あくまで個人の考えを書いています。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 524,
+                "friends_count": 979,
+                "listed_count": 12,
+                "created_at": "Mon Nov 02 05:19:33 +0000 2009",
+                "favourites_count": 6936,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6276,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1521849006150008835/TzcK1QhM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1521849006150008835/TzcK1QhM_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/86878910/1556944404",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 17 00:30:25 +0000 2022",
+                "id": 1537593473309626368,
+                "id_str": "1537593473309626368",
+                "text": "#DX プロジェクトを推進する上では、常に効果が求められます。今回は、東京大学人工物工学研究センター (RACE)の松尾豊教授 @ymatsuo の講演で触れられていた考え方を元に、DXの効果について #Z世代 の水戸さんと考察し… https://t.co/wmfKpBgMSw",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "DX",
+                            "indices": [
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "text": "Z世代",
+                            "indices": [
+                                101,
+                                105
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ymatsuo",
+                            "name": "松尾 豊",
+                            "id": 5262991,
+                            "id_str": "5262991",
+                            "indices": [
+                                64,
+                                72
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/wmfKpBgMSw",
+                            "expanded_url": "https://twitter.com/i/web/status/1537593473309626368",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1392309924579794945,
+                    "id_str": "1392309924579794945",
+                    "name": "グローバルブレインスクエア",
+                    "screen_name": "gbswebmaster",
+                    "location": "東京 千代田区",
+                    "description": "企業のDX(デジタルトランスフォーメーション)とグローバル化を支援するコンサルティング会社です。Web3、DX、IoTに関連するニュースをツイートします。",
+                    "url": "https://t.co/cRRoaBLpPv",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/cRRoaBLpPv",
+                                    "expanded_url": "https://gbs.co.jp/",
+                                    "display_url": "gbs.co.jp",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 10,
+                    "friends_count": 5,
+                    "listed_count": 1,
+                    "created_at": "Wed May 12 02:45:35 +0000 2021",
+                    "favourites_count": 82,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 474,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1393148920331530243/C6906Q6P_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393148920331530243/C6906Q6P_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jun 17 00:30:25 +0000 2022",
+            "id": 1537593473309626368,
+            "id_str": "1537593473309626368",
+            "text": "#DX プロジェクトを推進する上では、常に効果が求められます。今回は、東京大学人工物工学研究センター (RACE)の松尾豊教授 @ymatsuo の講演で触れられていた考え方を元に、DXの効果について #Z世代 の水戸さんと考察し… https://t.co/wmfKpBgMSw",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DX",
+                        "indices": [
+                            0,
+                            3
+                        ]
+                    },
+                    {
+                        "text": "Z世代",
+                        "indices": [
+                            101,
+                            105
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            64,
+                            72
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/wmfKpBgMSw",
+                        "expanded_url": "https://twitter.com/i/web/status/1537593473309626368",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1392309924579794945,
+                "id_str": "1392309924579794945",
+                "name": "グローバルブレインスクエア",
+                "screen_name": "gbswebmaster",
+                "location": "東京 千代田区",
+                "description": "企業のDX(デジタルトランスフォーメーション)とグローバル化を支援するコンサルティング会社です。Web3、DX、IoTに関連するニュースをツイートします。",
+                "url": "https://t.co/cRRoaBLpPv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/cRRoaBLpPv",
+                                "expanded_url": "https://gbs.co.jp/",
+                                "display_url": "gbs.co.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 10,
+                "friends_count": 5,
+                "listed_count": 1,
+                "created_at": "Wed May 12 02:45:35 +0000 2021",
+                "favourites_count": 82,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 474,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1393148920331530243/C6906Q6P_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393148920331530243/C6906Q6P_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 15 21:30:10 +0000 2022",
+            "id": 1537185721504497667,
+            "id_str": "1537185721504497667",
+            "text": "@bronzeagepapi @arankomatsuzaki @machelreid @ymatsuo @yusuke_iwasawa_ It works well already but open to other sugge… https://t.co/I9nchLRKLP",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bronzeagepapi",
+                        "name": "Bondman",
+                        "id": 1017855978123882496,
+                        "id_str": "1017855978123882496",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "arankomatsuzaki",
+                        "name": "Aran Komatsuzaki",
+                        "id": 794433401591693312,
+                        "id_str": "794433401591693312",
+                        "indices": [
+                            15,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "machelreid",
+                        "name": "Machel Reid",
+                        "id": 807327556072402945,
+                        "id_str": "807327556072402945",
+                        "indices": [
+                            32,
+                            43
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            44,
+                            52
+                        ]
+                    },
+                    {
+                        "screen_name": "yusuke_iwasawa_",
+                        "name": "yusu.iwasawa",
+                        "id": 1490467393,
+                        "id_str": "1490467393",
+                        "indices": [
+                            53,
+                            69
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/I9nchLRKLP",
+                        "expanded_url": "https://twitter.com/i/web/status/1537185721504497667",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1537182383849734144,
+            "in_reply_to_status_id_str": "1537182383849734144",
+            "in_reply_to_user_id": 1017855978123882496,
+            "in_reply_to_user_id_str": "1017855978123882496",
+            "in_reply_to_screen_name": "bronzeagepapi",
+            "user": {
+                "id": 747212842470891520,
+                "id_str": "747212842470891520",
+                "name": "Shane Gu",
+                "screen_name": "shaneguML",
+                "location": "San Fransokyo",
+                "description": "Sr RS @GoogleAI Brain🇺🇸 & Adjunct Prof #UTokyo, PhD @Cambridge_Uni🇬🇧 @MPI_IS🇩🇪, BS @UofT. Formalizing intelligence. Views my own. 🇯🇵-born 🇨🇳🇨🇦",
+                "url": "https://t.co/K9AtArKMA8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/K9AtArKMA8",
+                                "expanded_url": "https://scholar.google.com/citations?user=B8wslVsAAAAJ",
+                                "display_url": "scholar.google.com/citations?user…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7931,
+                "friends_count": 625,
+                "listed_count": 98,
+                "created_at": "Sun Jun 26 23:39:59 +0000 2016",
+                "favourites_count": 11671,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1852,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1520479825739194368/zsUR0kIX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1520479825739194368/zsUR0kIX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/747212842470891520/1607823979",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 15 21:16:54 +0000 2022",
+            "id": 1537182383849734144,
+            "id_str": "1537182383849734144",
+            "text": "@shaneguML @arankomatsuzaki @machelreid @ymatsuo @yusuke_iwasawa_ All models have a personality (arch, data, scale,… https://t.co/w1e2Lj9KOs",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "shaneguML",
+                        "name": "Shane Gu",
+                        "id": 747212842470891520,
+                        "id_str": "747212842470891520",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "arankomatsuzaki",
+                        "name": "Aran Komatsuzaki",
+                        "id": 794433401591693312,
+                        "id_str": "794433401591693312",
+                        "indices": [
+                            11,
+                            27
+                        ]
+                    },
+                    {
+                        "screen_name": "machelreid",
+                        "name": "Machel Reid",
+                        "id": 807327556072402945,
+                        "id_str": "807327556072402945",
+                        "indices": [
+                            28,
+                            39
+                        ]
+                    },
+                    {
+                        "screen_name": "ymatsuo",
+                        "name": "松尾 豊",
+                        "id": 5262991,
+                        "id_str": "5262991",
+                        "indices": [
+                            40,
+                            48
+                        ]
+                    },
+                    {
+                        "screen_name": "yusuke_iwasawa_",
+                        "name": "yusu.iwasawa",
+                        "id": 1490467393,
+                        "id_str": "1490467393",
+                        "indices": [
+                            49,
+                            65
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/w1e2Lj9KOs",
+                        "expanded_url": "https://twitter.com/i/web/status/1537182383849734144",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1535353691443560448,
+            "in_reply_to_status_id_str": "1535353691443560448",
+            "in_reply_to_user_id": 747212842470891520,
+            "in_reply_to_user_id_str": "747212842470891520",
+            "in_reply_to_screen_name": "shaneguML",
+            "user": {
+                "id": 1017855978123882496,
+                "id_str": "1017855978123882496",
+                "name": "Bondman",
+                "screen_name": "bronzeagepapi",
+                "location": "Noumena",
+                "description": "Startups, Research, Machine Learning",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 320,
+                "friends_count": 5003,
+                "listed_count": 9,
+                "created_at": "Fri Jul 13 19:39:10 +0000 2018",
+                "favourites_count": 45520,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2002,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1534265779935272960/44H_9nCu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1534265779935272960/44H_9nCu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017855978123882496/1640550240",
+                "profile_link_color": "22A0A0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Jun 15 16:59:26 +0000 2022",
+            "id": 1537117592548257793,
+            "id_str": "1537117592548257793",
+            "text": "RT @yusuke_iwasawa_: 新しいpreprintを出しました https://t.co/KAIlRlOmPO．大規模言語モデルに対して思考を促すプロンプト(Let's think step by step)を追加するだけで，これまで苦手と言われていた推論タスクの…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "yusuke_iwasawa_",
+                        "name": "yusu.iwasawa",
+                        "id": 1490467393,
+                        "id_str": "1490467393",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/KAIlRlOmPO",
+                        "expanded_url": "https://arxiv.org/abs/2205.11916",
+                        "display_url": "arxiv.org/abs/2205.11916",
+                        "indices": [
+                            39,
+                            62
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1179813467164835841,
+                "id_str": "1179813467164835841",
+                "name": "amadeusine",
+                "screen_name": "amadeusine",
+                "location": "Arctic Circle",
+                "description": "Mt. 22.40 · biology, programming languages, optimisation & replication · etc. · mild clouds · probably forgetting something · ✨",
+                "url": "https://t.co/0Wue5ClEN9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/0Wue5ClEN9",
+                                "expanded_url": "https://amadeusine.com/",
+                                "display_url": "amadeusine.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 205,
+                "friends_count": 79,
+                "listed_count": 6,
+                "created_at": "Thu Oct 03 17:40:59 +0000 2019",
+                "favourites_count": 13259,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1733,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1179860486055022593/rU4EtnuK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179860486055022593/rU4EtnuK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179813467164835841/1587528368",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Jun 13 03:48:45 +0000 2022",
+                "id": 1536193832525918208,
+                "id_str": "1536193832525918208",
+                "text": "新しいpreprintを出しました https://t.co/KAIlRlOmPO．大規模言語モデルに対して思考を促すプロンプト(Let's think step by step)を追加するだけで，これまで苦手と言われていた推論タ… https://t.co/IgREVzNkgj",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/KAIlRlOmPO",
+                            "expanded_url": "https://arxiv.org/abs/2205.11916",
+                            "display_url": "arxiv.org/abs/2205.11916",
+                            "indices": [
+                                18,
+                                41
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/IgREVzNkgj",
+                            "expanded_url": "https://twitter.com/i/web/status/1536193832525918208",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1490467393,
+                    "id_str": "1490467393",
+                    "name": "yusu.iwasawa",
+                    "screen_name": "yusuke_iwasawa_",
+                    "location": "",
+                    "description": "東大某Deep研, DL輪読会(https://t.co/aBd9Fb0Ywm)の運営してます\n興味：ドメイン汎化、転移学習、メタ学習、（ex. 障害者支援）",
+                    "url": "https://t.co/wPWkFA1OTw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wPWkFA1OTw",
+                                    "expanded_url": "https://www.yusukeiwasawa.com/",
+                                    "display_url": "yusukeiwasawa.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/aBd9Fb0Ywm",
+                                    "expanded_url": "https://deeplearning.jp/seminar/",
+                                    "display_url": "deeplearning.jp/seminar/",
+                                    "indices": [
+                                        16,
+                                        39
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 326,
+                    "friends_count": 574,
+                    "listed_count": 7,
+                    "created_at": "Fri Jun 07 13:50:07 +0000 2013",
+                    "favourites_count": 2758,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3033,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/706007456141283328/SOjJdJOu_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/706007456141283328/SOjJdJOu_normal.jpg",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1535353691443560448,
+                "quoted_status_id_str": "1535353691443560448",
+                "quoted_status": {
+                    "created_at": "Fri Jun 10 20:10:20 +0000 2022",
+                    "id": 1535353691443560448,
+                    "id_str": "1535353691443560448",
+                    "text": "Update: \"Let's think step by step\" https://t.co/rnagT8uUJK also works on PaLM 540B. GSM8K zero-shot+greedy: 12.5% -… https://t.co/Jc51RA6N6L",
+                    "truncated": true,
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                            {
+                                "url": "https://t.co/rnagT8uUJK",
+                                "expanded_url": "https://arxiv.org/abs/2205.11916",
+                                "display_url": "arxiv.org/abs/2205.11916",
+                                "indices": [
+                                    35,
+                                    58
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/Jc51RA6N6L",
+                                "expanded_url": "https://twitter.com/i/web/status/1535353691443560448",
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "indices": [
+                                    117,
+                                    140
+                                ]
+                            }
+                        ]
+                    },
+                    "metadata": {
+                        "iso_language_code": "ja",
+                        "result_type": "recent"
+                    },
+                    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "user": {
+                        "id": 747212842470891520,
+                        "id_str": "747212842470891520",
+                        "name": "Shane Gu",
+                        "screen_name": "shaneguML",
+                        "location": "San Fransokyo",
+                        "description": "Sr RS @GoogleAI Brain🇺🇸 & Adjunct Prof #UTokyo, PhD @Cambridge_Uni🇬🇧 @MPI_IS🇩🇪, BS @UofT. Formalizing intelligence. Views my own. 🇯🇵-born 🇨🇳🇨🇦",
+                        "url": "https://t.co/K9AtArKMA8",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/K9AtArKMA8",
+                                        "expanded_url": "https://scholar.google.com/citations?user=B8wslVsAAAAJ",
+                                        "display_url": "scholar.google.com/citations?user…",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 7931,
+                        "friends_count": 625,
+                        "listed_count": 98,
+                        "created_at": "Sun Jun 26 23:39:59 +0000 2016",
+                        "favourites_count": 11671,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 1852,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1520479825739194368/zsUR0kIX_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1520479825739194368/zsUR0kIX_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747212842470891520/1607823979",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    },
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": false,
+                    "retweet_count": 24,
+                    "favorite_count": 182,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "en"
+                },
+                "retweet_count": 16,
+                "favorite_count": 70,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": true,
+                "lang": "ja"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1535353691443560448,
+            "quoted_status_id_str": "1535353691443560448",
+            "retweet_count": 16,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 14 23:00:58 +0000 2022",
+            "id": 1536846186136498176,
+            "id_str": "1536846186136498176",
+            "text": "RT @shaneguML: Update: \"Let's think step by step\" https://t.co/rnagT8uUJK also works on PaLM 540B. GSM8K zero-shot+greedy: 12.5% -&gt; 43.0%.…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "shaneguML",
+                        "name": "Shane Gu",
+                        "id": 747212842470891520,
+                        "id_str": "747212842470891520",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/rnagT8uUJK",
+                        "expanded_url": "https://arxiv.org/abs/2205.11916",
+                        "display_url": "arxiv.org/abs/2205.11916",
+                        "indices": [
+                            50,
+                            73
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3025082120,
+                "id_str": "3025082120",
+                "name": "Shayne Longpre",
+                "screen_name": "ShayneRedford",
+                "location": "Boston",
+                "description": "PhD @medialab @MIT. Ex: @apple ML Scientist, @stanfordnlp CS '18. 🇨🇦 Interests: AI/ML/NLP, Social Science, Online Governance.",
+                "url": "https://t.co/zBsluLGitG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zBsluLGitG",
+                                "expanded_url": "http://www.shaynelongpre.com",
+                                "display_url": "shaynelongpre.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 585,
+                "friends_count": 1277,
+                "listed_count": 6,
+                "created_at": "Wed Feb 18 08:27:29 +0000 2015",
+                "favourites_count": 1260,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 405,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1531314887795716096/ta1y6N7w_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1531314887795716096/ta1y6N7w_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3025082120/1653928832",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 10 20:10:20 +0000 2022",
+                "id": 1535353691443560448,
+                "id_str": "1535353691443560448",
+                "text": "Update: \"Let's think step by step\" https://t.co/rnagT8uUJK also works on PaLM 540B. GSM8K zero-shot+greedy: 12.5% -… https://t.co/Jc51RA6N6L",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/rnagT8uUJK",
+                            "expanded_url": "https://arxiv.org/abs/2205.11916",
+                            "display_url": "arxiv.org/abs/2205.11916",
+                            "indices": [
+                                35,
+                                58
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/Jc51RA6N6L",
+                            "expanded_url": "https://twitter.com/i/web/status/1535353691443560448",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 747212842470891520,
+                    "id_str": "747212842470891520",
+                    "name": "Shane Gu",
+                    "screen_name": "shaneguML",
+                    "location": "San Fransokyo",
+                    "description": "Sr RS @GoogleAI Brain🇺🇸 & Adjunct Prof #UTokyo, PhD @Cambridge_Uni🇬🇧 @MPI_IS🇩🇪, BS @UofT. Formalizing intelligence. Views my own. 🇯🇵-born 🇨🇳🇨🇦",
+                    "url": "https://t.co/K9AtArKMA8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/K9AtArKMA8",
+                                    "expanded_url": "https://scholar.google.com/citations?user=B8wslVsAAAAJ",
+                                    "display_url": "scholar.google.com/citations?user…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 7931,
+                    "friends_count": 625,
+                    "listed_count": 98,
+                    "created_at": "Sun Jun 26 23:39:59 +0000 2016",
+                    "favourites_count": 11671,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1852,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1520479825739194368/zsUR0kIX_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1520479825739194368/zsUR0kIX_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/747212842470891520/1607823979",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 24,
+                "favorite_count": 182,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 24,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "wordcloud": [
+        "SOCIAL",
+        "九州",
+        "松尾",
+        "偏差値",
+        "ダメ",
+        "点字",
+        "翻訳",
+        "世界",
+        "社会",
+        "課題",
+        "真っ向",
+        "姿勢",
+        "ステキ",
+        "RT",
+        "今日",
+        "予定",
+        "授業",
+        "録画",
+        "昔",
+        "小倉",
+        "発表",
+        "ノート",
+        "パソコン",
+        "くらい",
+        "当然",
+        "上がり",
+        "Web",
+        "講義",
+        "工学",
+        "授業",
+        "ウェブ",
+        "ビジネス",
+        "対象",
+        "当然",
+        "ハッキング",
+        "成分",
+        "強め",
+        "今日",
+        "盟友",
+        "松尾",
+        "豊",
+        "時間",
+        "スタート",
+        "アップ",
+        "勝ち",
+        "メカニズム",
+        "RT",
+        "自分",
+        "イチゴ",
+        "かき氷",
+        "夏",
+        "発言",
+        "商品化",
+        "売れ",
+        "なか",
+        "責任",
+        "心",
+        "私",
+        "人工",
+        "知能",
+        "確率",
+        "ビッグ",
+        "マウス",
+        "神経質",
+        "珍獣",
+        "天才",
+        "事",
+        "相手",
+        "立場",
+        "会社",
+        "雰囲気",
+        "イチゴ",
+        "かき氷",
+        "夏",
+        "みんな",
+        "いち",
+        "http",
+        "気",
+        "手動",
+        "人",
+        "口",
+        "情報",
+        "答え",
+        "質問",
+        "仕方",
+        "チャット",
+        "意志",
+        "味方",
+        "予想",
+        "効果",
+        "今回",
+        "東京",
+        "人工",
+        "物",
+        "工学",
+        "研究",
+        "センター",
+        "RACE",
+        "松尾",
+        "豊",
+        "講演",
+        "考え方",
+        "元",
+        "世代",
+        "水戸",
+        "考察",
+        "プロジェクト",
+        "推進"
+    ]
+}
