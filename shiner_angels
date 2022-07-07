@@ -1,0 +1,120 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Sun Jul 03 01:56:40 +0000 2022",
+            "id": 1543413382166056960,
+            "id_str": "1543413382166056960",
+            "text": "AllI know about P&amp;S is that it ended on a cliff hanger, the sisters are outcasted angels &amp; most of their episode vi… https://t.co/QE9OlmtK3p",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/QE9OlmtK3p",
+                        "expanded_url": "https://twitter.com/i/web/status/1543413382166056960",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1508300359,
+                "id_str": "1508300359",
+                "name": "Sur-Shiner",
+                "screen_name": "Sur_Shiner",
+                "location": "Limbo-Star",
+                "description": "Artist, graphic designer, entrepreneur. I'm growing in order to create & fund my webcomic, Limbo-Star. 28 y/o. I RT what I like.\nKo-fi: https://t.co/KZJJWQZkSJ",
+                "url": "https://t.co/5fnYzwa8Cs",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5fnYzwa8Cs",
+                                "expanded_url": "https://sur-shiner.newgrounds.com/",
+                                "display_url": "sur-shiner.newgrounds.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KZJJWQZkSJ",
+                                "expanded_url": "http://ko-fi.com/surshiner1",
+                                "display_url": "ko-fi.com/surshiner1",
+                                "indices": [
+                                    136,
+                                    159
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 366,
+                "friends_count": 4080,
+                "listed_count": 9,
+                "created_at": "Wed Jun 12 02:29:25 +0000 2013",
+                "favourites_count": 455452,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17099,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/816426748334047232/QDB0TnIk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/816426748334047232/QDB0TnIk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508300359/1651978712",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "wordcloud": []
+}
