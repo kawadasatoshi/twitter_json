@@ -1,0 +1,1683 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Fri Jul 15 10:48:16 +0000 2022",
+            "id": 1547895819801505795,
+            "id_str": "1547895819801505795",
+            "text": "@nerunnu3 でっかいお返し返ってくるか・・・！サマジャン忘れてたから買うわ！",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1547895716269682688,
+            "in_reply_to_status_id_str": "1547895716269682688",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 66636277,
+                "id_str": "66636277",
+                "name": "さめちゃん",
+                "screen_name": "Lonchura__",
+                "location": "",
+                "description": "祖04単推し　バデミM12～13でマイカ城の地縛霊になった　成人済",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 232,
+                "friends_count": 398,
+                "listed_count": 13,
+                "created_at": "Tue Aug 18 09:03:36 +0000 2009",
+                "favourites_count": 10154,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 352106,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1481861718389456898/wc-KcyvR_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481861718389456898/wc-KcyvR_normal.png",
+                "profile_link_color": "0B7023",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 15 05:18:59 +0000 2022",
+            "id": 1547812950484070401,
+            "id_str": "1547812950484070401",
+            "text": "@sssssaj @nerunnu3 意外と侮れないよねドラストのジェネリックアイスリング、俺も駆け込みで買って使ってるけど、出勤時の汗がだいぶ軽減されて助かってる",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "sssssaj",
+                        "name": "𝕖𝕓𝕚",
+                        "id": 281473053,
+                        "id_str": "281473053",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            9,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+            "in_reply_to_status_id": 1547812682287353856,
+            "in_reply_to_status_id_str": "1547812682287353856",
+            "in_reply_to_user_id": 281473053,
+            "in_reply_to_user_id_str": "281473053",
+            "in_reply_to_screen_name": "sssssaj",
+            "user": {
+                "id": 56065403,
+                "id_str": "56065403",
+                "name": "ジャガ峰",
+                "screen_name": "jagcr",
+                "location": "次男可愛いの里",
+                "description": "成人済の17歳。公式RT多め。ブクロの次男可愛いの里ステオリディビ大好き町在住、デレなつきちMマス翔真さん＆アスラン担。ボーグ脳のカワカミン中毒患者。あおが民。　ツイプロフィール：https://t.co/u6o7Lj3mY8",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/u6o7Lj3mY8",
+                                "expanded_url": "http://twpf.jp/jagcr",
+                                "display_url": "twpf.jp/jagcr",
+                                "indices": [
+                                    90,
+                                    113
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 552,
+                "friends_count": 949,
+                "listed_count": 37,
+                "created_at": "Sun Jul 12 10:30:18 +0000 2009",
+                "favourites_count": 63484,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 428058,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1415734868852363270/rHOygIl6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415734868852363270/rHOygIl6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/56065403/1614063630",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "A0C5C7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 15 03:28:22 +0000 2022",
+            "id": 1547785113668227074,
+            "id_str": "1547785113668227074",
+            "text": "@nerunnu3 感染爆発直前の今、三連休のレジャー予定潰すの、対策的にはグッジョブだから困る……",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+            "in_reply_to_status_id": 1547780175349583872,
+            "in_reply_to_status_id_str": "1547780175349583872",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 56065403,
+                "id_str": "56065403",
+                "name": "ジャガ峰",
+                "screen_name": "jagcr",
+                "location": "次男可愛いの里",
+                "description": "成人済の17歳。公式RT多め。ブクロの次男可愛いの里ステオリディビ大好き町在住、デレなつきちMマス翔真さん＆アスラン担。ボーグ脳のカワカミン中毒患者。あおが民。　ツイプロフィール：https://t.co/u6o7Lj3mY8",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/u6o7Lj3mY8",
+                                "expanded_url": "http://twpf.jp/jagcr",
+                                "display_url": "twpf.jp/jagcr",
+                                "indices": [
+                                    90,
+                                    113
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 552,
+                "friends_count": 949,
+                "listed_count": 37,
+                "created_at": "Sun Jul 12 10:30:18 +0000 2009",
+                "favourites_count": 63484,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 428058,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1415734868852363270/rHOygIl6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415734868852363270/rHOygIl6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/56065403/1614063630",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "A0C5C7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 14 11:42:45 +0000 2022",
+            "id": 1547547143720030209,
+            "id_str": "1547547143720030209",
+            "text": "@nerunnu3 つまりそういうことですな……サインも今までの傾向だとキャラサインとキャストサインがあるので……",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1547546718996406272,
+            "in_reply_to_status_id_str": "1547546718996406272",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 120251318,
+                "id_str": "120251318",
+                "name": "みりん",
+                "screen_name": "mirin_soraneko",
+                "location": "神羽根市鐘の音文化会館前",
+                "description": "オタク社会人。乙女ゲとかソシャゲとかえろげとかを嗜んでいます。最近の萌えはMマス(翔太担当)、ヴァンガ(レンアサとドレノ)、刀剣(水心子)、えすり(莇推し)。こに担。ぬいを連れ歩きたいタイプのオタク。色々うるさいのとたまに語り出したり発狂してるのでご注意を。",
+                "url": "https://t.co/ZCDTongA5d",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZCDTongA5d",
+                                "expanded_url": "http://karimiri.blog34.fc2.com/",
+                                "display_url": "karimiri.blog34.fc2.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 394,
+                "friends_count": 287,
+                "listed_count": 15,
+                "created_at": "Fri Mar 05 22:48:10 +0000 2010",
+                "favourites_count": 5209,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 239362,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "70E3EB",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1277247981377355777/KYFW6BiS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277247981377355777/KYFW6BiS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/120251318/1524454641",
+                "profile_link_color": "029499",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "9AE2E6",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 14 11:39:30 +0000 2022",
+            "id": 1547546325453254657,
+            "id_str": "1547546325453254657",
+            "text": "@nerunnu3 めちゃくちゃレアなカード狙わなければ怖くはないですたぶん………たぶん…………",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1547545856026746888,
+            "in_reply_to_status_id_str": "1547545856026746888",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 120251318,
+                "id_str": "120251318",
+                "name": "みりん",
+                "screen_name": "mirin_soraneko",
+                "location": "神羽根市鐘の音文化会館前",
+                "description": "オタク社会人。乙女ゲとかソシャゲとかえろげとかを嗜んでいます。最近の萌えはMマス(翔太担当)、ヴァンガ(レンアサとドレノ)、刀剣(水心子)、えすり(莇推し)。こに担。ぬいを連れ歩きたいタイプのオタク。色々うるさいのとたまに語り出したり発狂してるのでご注意を。",
+                "url": "https://t.co/ZCDTongA5d",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZCDTongA5d",
+                                "expanded_url": "http://karimiri.blog34.fc2.com/",
+                                "display_url": "karimiri.blog34.fc2.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 394,
+                "friends_count": 287,
+                "listed_count": 15,
+                "created_at": "Fri Mar 05 22:48:10 +0000 2010",
+                "favourites_count": 5209,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 239362,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "70E3EB",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1277247981377355777/KYFW6BiS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277247981377355777/KYFW6BiS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/120251318/1524454641",
+                "profile_link_color": "029499",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "9AE2E6",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 14 11:38:30 +0000 2022",
+            "id": 1547546073551589376,
+            "id_str": "1547546073551589376",
+            "text": "@nerunnu3 シングル市場があるだけ狙い打ちはラクだよ！！！！！\n（感覚が狂ったTCGプレイヤー）",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1547545856026746888,
+            "in_reply_to_status_id_str": "1547545856026746888",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 56675856,
+                "id_str": "56675856",
+                "name": "palara",
+                "screen_name": "palara_fudanshi",
+                "location": "",
+                "description": "「」　とっくの昔に20↑の翼Ｐ　現在はSideM・NUカーニバル・カードゲームにハマリ中　　アイコンは斎川さん（@s_tino_）に描いてもらいました　メンタルの平穏のために政治がキツい・語調が荒い・ネガティブ発言ばかりの方はリムるかも　 2.5次元とか3次元は→@palara_another",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 664,
+                "friends_count": 1076,
+                "listed_count": 39,
+                "created_at": "Tue Jul 14 12:04:41 +0000 2009",
+                "favourites_count": 34904,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 127163,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1529934812718723072/HpNMoyb6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529934812718723072/HpNMoyb6_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 12 13:13:40 +0000 2022",
+            "id": 1546845245186330625,
+            "id_str": "1546845245186330625",
+            "text": "RT @mo6_ack: @nerunnu3 ホットクックのほうが高機能な分お高いんだよねえ…憧れはある\nでも電鍋くんは雑に使えるお値段なのもとても良い…見た目も可愛いし…LOVE…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "mo6_ack",
+                        "name": "モロあき",
+                        "id": 53957054,
+                        "id_str": "53957054",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            13,
+                            22
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 187530226,
+                "id_str": "187530226",
+                "name": "hisakawa",
+                "screen_name": "hisakawa77",
+                "location": "",
+                "description": "ゲーム、電鍋好き。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 53,
+                "friends_count": 237,
+                "listed_count": 0,
+                "created_at": "Mon Sep 06 13:59:05 +0000 2010",
+                "favourites_count": 5853,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2402,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/482309226841124864/IP7o2RwG_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/482309226841124864/IP7o2RwG_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Jul 12 04:55:54 +0000 2022",
+                "id": 1546719979705630720,
+                "id_str": "1546719979705630720",
+                "text": "@nerunnu3 ホットクックのほうが高機能な分お高いんだよねえ…憧れはある\nでも電鍋くんは雑に使えるお値段なのもとても良い…見た目も可愛いし…LOVE…",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "nerunnu3",
+                            "name": "ねる",
+                            "id": 140061534,
+                            "id_str": "140061534",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+                "in_reply_to_status_id": 1546718917321641984,
+                "in_reply_to_status_id_str": "1546718917321641984",
+                "in_reply_to_user_id": 140061534,
+                "in_reply_to_user_id_str": "140061534",
+                "in_reply_to_screen_name": "nerunnu3",
+                "user": {
+                    "id": 53957054,
+                    "id_str": "53957054",
+                    "name": "モロあき",
+                    "screen_name": "mo6_ack",
+                    "location": "MIDICITY/新宿バベル/無双沼の底/相模サーバー",
+                    "description": "成人済モロ星人 あそびがみが素敵でした 三度の飯よりタコスミートと婿嫁とインテリマッチョとおおきなネコチャンが好き 未成年と非オタはブロ解対象 タイ🇹🇭の話はこっち @mo6_baksiidaa",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 416,
+                    "friends_count": 328,
+                    "listed_count": 24,
+                    "created_at": "Sun Jul 05 17:31:15 +0000 2009",
+                    "favourites_count": 128654,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 301227,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53957054/1635941094",
+                    "profile_link_color": "3B94D9",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 12 12:12:06 +0000 2022",
+            "id": 1546829751813255169,
+            "id_str": "1546829751813255169",
+            "text": "@nerunnu3 でもオタクもうっかり趣味に燃え尽きるときはあるからね…常に趣味にバーニングしてられる人は少ないと思うので他人事ではないんだな…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1546829188749209600,
+            "in_reply_to_status_id_str": "1546829188749209600",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 53957054,
+                "id_str": "53957054",
+                "name": "モロあき",
+                "screen_name": "mo6_ack",
+                "location": "MIDICITY/新宿バベル/無双沼の底/相模サーバー",
+                "description": "成人済モロ星人 あそびがみが素敵でした 三度の飯よりタコスミートと婿嫁とインテリマッチョとおおきなネコチャンが好き 未成年と非オタはブロ解対象 タイ🇹🇭の話はこっち @mo6_baksiidaa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 416,
+                "friends_count": 328,
+                "listed_count": 24,
+                "created_at": "Sun Jul 05 17:31:15 +0000 2009",
+                "favourites_count": 128654,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 301227,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53957054/1635941094",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 12 04:55:54 +0000 2022",
+            "id": 1546719979705630720,
+            "id_str": "1546719979705630720",
+            "text": "@nerunnu3 ホットクックのほうが高機能な分お高いんだよねえ…憧れはある\nでも電鍋くんは雑に使えるお値段なのもとても良い…見た目も可愛いし…LOVE…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+            "in_reply_to_status_id": 1546718917321641984,
+            "in_reply_to_status_id_str": "1546718917321641984",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 53957054,
+                "id_str": "53957054",
+                "name": "モロあき",
+                "screen_name": "mo6_ack",
+                "location": "MIDICITY/新宿バベル/無双沼の底/相模サーバー",
+                "description": "成人済モロ星人 あそびがみが素敵でした 三度の飯よりタコスミートと婿嫁とインテリマッチョとおおきなネコチャンが好き 未成年と非オタはブロ解対象 タイ🇹🇭の話はこっち @mo6_baksiidaa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 416,
+                "friends_count": 328,
+                "listed_count": 24,
+                "created_at": "Sun Jul 05 17:31:15 +0000 2009",
+                "favourites_count": 128654,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 301227,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53957054/1635941094",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 12 04:44:25 +0000 2022",
+            "id": 1546717088332804096,
+            "id_str": "1546717088332804096",
+            "text": "@nerunnu3 スイッチ入れてあとは放置しておくだけで忘れてても勝手に電源落ちてくれて安全なのとても助かるよね…コンロの前に立ってるだけのストレスとかレンジから取り出すのを忘れてヒエヒエになってるのとかから開放された",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+            "in_reply_to_status_id": 1546715832784670720,
+            "in_reply_to_status_id_str": "1546715832784670720",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 53957054,
+                "id_str": "53957054",
+                "name": "モロあき",
+                "screen_name": "mo6_ack",
+                "location": "MIDICITY/新宿バベル/無双沼の底/相模サーバー",
+                "description": "成人済モロ星人 あそびがみが素敵でした 三度の飯よりタコスミートと婿嫁とインテリマッチョとおおきなネコチャンが好き 未成年と非オタはブロ解対象 タイ🇹🇭の話はこっち @mo6_baksiidaa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 416,
+                "friends_count": 328,
+                "listed_count": 24,
+                "created_at": "Sun Jul 05 17:31:15 +0000 2009",
+                "favourites_count": 128654,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 301227,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53957054/1635941094",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 09 02:53:11 +0000 2022",
+            "id": 1545601932487950337,
+            "id_str": "1545601932487950337",
+            "text": "@nerunnu3 ベルティゴ…？",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPane for Android</a>",
+            "in_reply_to_status_id": 1545601356672954368,
+            "in_reply_to_status_id_str": "1545601356672954368",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 92456797,
+                "id_str": "92456797",
+                "name": "ダークグレファー",
+                "screen_name": "grepheR",
+                "location": "茜ちゃれんじ¿¡",
+                "description": "お茶とカレーが好きです",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1427,
+                "friends_count": 1124,
+                "listed_count": 149,
+                "created_at": "Wed Nov 25 05:43:03 +0000 2009",
+                "favourites_count": 220876,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 303021,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1469655777459720197/I8pei33e_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469655777459720197/I8pei33e_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/92456797/1348076660",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 08 11:59:29 +0000 2022",
+            "id": 1545377024914558976,
+            "id_str": "1545377024914558976",
+            "text": "@nerunnu3 シャドーボクシングが冴えてしまった\nありがとう通報してきます",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1545376271110135810,
+            "in_reply_to_status_id_str": "1545376271110135810",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 53957054,
+                "id_str": "53957054",
+                "name": "モロあき",
+                "screen_name": "mo6_ack",
+                "location": "MIDICITY/新宿バベル/無双沼の底/相模サーバー",
+                "description": "成人済モロ星人 あそびがみが素敵でした 三度の飯よりタコスミートと婿嫁とインテリマッチョとおおきなネコチャンが好き 未成年と非オタはブロ解対象 タイ🇹🇭の話はこっち @mo6_baksiidaa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 416,
+                "friends_count": 328,
+                "listed_count": 24,
+                "created_at": "Sun Jul 05 17:31:15 +0000 2009",
+                "favourites_count": 128654,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 301227,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53957054/1635941094",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 08 11:49:23 +0000 2022",
+            "id": 1545374485984882688,
+            "id_str": "1545374485984882688",
+            "text": "@nerunnu3 それで放送見直せって言ったら報道の自由と表現規制を盾にするんでしょう？最悪だよ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1545374005493841920,
+            "in_reply_to_status_id_str": "1545374005493841920",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 53957054,
+                "id_str": "53957054",
+                "name": "モロあき",
+                "screen_name": "mo6_ack",
+                "location": "MIDICITY/新宿バベル/無双沼の底/相模サーバー",
+                "description": "成人済モロ星人 あそびがみが素敵でした 三度の飯よりタコスミートと婿嫁とインテリマッチョとおおきなネコチャンが好き 未成年と非オタはブロ解対象 タイ🇹🇭の話はこっち @mo6_baksiidaa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 416,
+                "friends_count": 328,
+                "listed_count": 24,
+                "created_at": "Sun Jul 05 17:31:15 +0000 2009",
+                "favourites_count": 128654,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 301227,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385695287042207747/bafS6D_p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53957054/1635941094",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 08 08:46:10 +0000 2022",
+            "id": 1545328377917108224,
+            "id_str": "1545328377917108224",
+            "text": "@nerunnu3 三分割の美しいカレー！！",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1545325256264785921,
+            "in_reply_to_status_id_str": "1545325256264785921",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 66636277,
+                "id_str": "66636277",
+                "name": "さめちゃん",
+                "screen_name": "Lonchura__",
+                "location": "",
+                "description": "祖04単推し　バデミM12～13でマイカ城の地縛霊になった　成人済",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 232,
+                "friends_count": 398,
+                "listed_count": 13,
+                "created_at": "Tue Aug 18 09:03:36 +0000 2009",
+                "favourites_count": 10154,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 352106,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1481861718389456898/wc-KcyvR_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481861718389456898/wc-KcyvR_normal.png",
+                "profile_link_color": "0B7023",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 07 12:21:23 +0000 2022",
+            "id": 1545020151753412608,
+            "id_str": "1545020151753412608",
+            "text": "@nerunnu3 (名前見えてませんか…？！勘違いだったらすみません…！)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1545019254747308032,
+            "in_reply_to_status_id_str": "1545019254747308032",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 283242990,
+                "id_str": "283242990",
+                "name": "まい子🦦",
+                "screen_name": "mijumaiko",
+                "location": "一応ちなDe",
+                "description": "20↑成人済み アイマス(シンデレラ:夕美・颯、SideM:桜庭、鋭心)好き あと他色々",
+                "url": "https://t.co/pjoOKAoCLY",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pjoOKAoCLY",
+                                "expanded_url": "https://twpf.jp/mijumaiko",
+                                "display_url": "twpf.jp/mijumaiko",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 412,
+                "friends_count": 454,
+                "listed_count": 30,
+                "created_at": "Sat Apr 16 22:09:24 +0000 2011",
+                "favourites_count": 26772,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 79306,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F0AEB8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1545291274433200128/8tJZw50z_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1545291274433200128/8tJZw50z_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/283242990/1656492761",
+                "profile_link_color": "F0AEB8",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFEBED",
+                "profile_text_color": "F59DAE",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 06 14:24:19 +0000 2022",
+            "id": 1544688699799392257,
+            "id_str": "1544688699799392257",
+            "text": "@nerunnu3 今回はマジで己のポカなので諦めます……(正直石欲しい課金だったし……)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nerunnu3",
+                        "name": "ねる",
+                        "id": 140061534,
+                        "id_str": "140061534",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1544687466439127041,
+            "in_reply_to_status_id_str": "1544687466439127041",
+            "in_reply_to_user_id": 140061534,
+            "in_reply_to_user_id_str": "140061534",
+            "in_reply_to_screen_name": "nerunnu3",
+            "user": {
+                "id": 4904962489,
+                "id_str": "4904962489",
+                "name": "梅太郎@9月みらへす",
+                "screen_name": "MegashotaP",
+                "location": "この地球♡すごい♡まるい♡かわいい♡",
+                "description": "人類エアプ赤ちゃんパンダ成人腐男子/9月百々人骨壷本/いまは修羅場垢@6psG1iJwoysWmrc にいるhttps://t.co/9q65M5ck3O",
+                "url": "https://t.co/QMlkLQUsee",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/QMlkLQUsee",
+                                "expanded_url": "http://twpf.jp/MegashotaP",
+                                "display_url": "twpf.jp/MegashotaP",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/9q65M5ck3O",
+                                "expanded_url": "http://odaibako.net/u/MegashotaP",
+                                "display_url": "odaibako.net/u/MegashotaP",
+                                "indices": [
+                                    54,
+                                    77
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 716,
+                "friends_count": 302,
+                "listed_count": 33,
+                "created_at": "Sun Feb 14 04:16:11 +0000 2016",
+                "favourites_count": 139611,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 122497,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1509908641197215745/SXiPxim2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908641197215745/SXiPxim2_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ],
+    "wordcloud": []
+}
